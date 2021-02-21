@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.facebook.fresco:drawee:0.8.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8938530729eea79129b6c8577d46feb8/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8938530729eea79129b6c8577d46feb8/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8938530729eea79129b6c8577d46feb8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d4d22ee9ff81239c447c66361f3ef4a/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d4d22ee9ff81239c447c66361f3ef4a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d4d22ee9ff81239c447c66361f3ef4a/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
